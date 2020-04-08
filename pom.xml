@@ -80,7 +80,7 @@
               <!-- https://codehaus-cargo.github.io/cargo/Maven2+Plugin+Reference+Guide.html#Maven2PluginReferenceGuide-container -->
               <containerId>tomcat8x</containerId>
 		    <zipUrlInstaller>
-                <url>http://repo1.maven.org/maven2/org/apache/tomcat/tomcat/8.5.53/tomcat-8.5.53.zip</url>
+                <url>http://repo1.maven.org/maven2/org/apache/tomcat/tomcat/8.0.35/tomcat-8.0.35.zip</url>
               </zipUrlInstaller>
               <!-- Instead of downloading the container, you can also reuse an existing installation by settings its directory:
               <home>/Users/horsti/files/tomcats/apache-tomcat-8.5.4</home> -->
